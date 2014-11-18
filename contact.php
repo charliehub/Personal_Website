@@ -29,14 +29,16 @@
       <div class="container">
         <h1>Char's World.</h1>
         <p>Welcome to my world. A world full of games and other exciting things. If You're not a gamer, there will be stuff for you guys as well, so don't be put off by that.</p>
-        <a href="#">Learn More</a>
+		 <p>Looks for ways to contact me in the tabular section below</p>
       </div>
     </div> 
 
+	<!--This holds all of my contact information, in a table like form for 
+	neatness purposes-->
     <div class="neighborhood-guides">
         <div class="container">
                <table class="table table-bordered table-responsive">
-			     <caption>This is how you can contact Me</caption>
+			     <caption><strong>This is how you can contact me</strong></caption><br>
 				 <tr>
 				 <td>Name</td>
 				 <td>Charles Langley Jr.</td>
@@ -45,44 +47,18 @@
 				 <td>Place of Residence</td>
 				 <td>Philadelphia, Pennsylvania</td>
 				 </tr>
+				 <tr>
+				 <td>Email</td>
+				 <td>clangley933@gmail.com</td>
+				 </tr>
 			   </table>
                  </div>
         </div>
     </div>
-    <div class="learn-more">
-	  <div class="container">
-		<form role="form">
-		   <div class="form-group">
-      <label for="firstname" class="col-sm-2 control-label">First Name</label>
-      <div class="col-sm-10">
-         <input type="text" class="form-control" id="firstname" 
-            placeholder="Enter First Name">
-      </div>
-   </div>
-   <div class="form-group">
-      <label for="lastname" class="col-sm-2 control-label">Last Name</label>
-      <div class="col-sm-10">
-         <input type="text" class="form-control" id="lastname" 
-            placeholder="Enter Last Name">
-      </div>
-   </div>
-   <div class="form-group">
-      <div class="col-sm-offset-2 col-sm-10">
-         <div class="checkbox">
-            <label>
-               <input type="checkbox"> Remember me
-            </label>
-         </div>
-      </div>
-   </div>
-   <div class="form-group">
-      <div class="col-sm-offset-2 col-sm-10">
-         <button type="submit" class="btn btn-default">Sign in</button>
-      </div>
-   </div>
+	
+	
 			
 	  </div>
-	</div>
   </body>
 </html>
       

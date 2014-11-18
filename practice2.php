@@ -14,6 +14,8 @@
 
   
   <body>
+    <!--The navigation bar which will be the same on each page but will link to the page
+	specified by the name when clicked on -->
     <div class="nav">
       <div class="container">
         <ul class="pull-left">
@@ -23,21 +25,22 @@
         <ul class="pull-right">
           <li><a href="project.php">Projects</a></li>
           <li><a href="contact.php">Contact Me</a></li>
-          <li><a href="reg.php">Register</a></li>
         </ul>
       </div>
     </div>
 	
 	
 	
+	<!--The jumbotron on each page displaying what the page is about. It will be different
+	on each page-->
     <div class="jumbotron">
       <div class="container">
         <h1>Char's World.</h1>
         <p>Welcome to my world. A world full of games and other exciting things. If You're not a gamer, there will be stuff for you guys as well, so don't be put off by that.</p>
-        <a href="#">Learn More</a>
       </div>
     </div> 
 
+   <!--The stash of video games that I have played-->
     <div class="neighborhood-guides">
         <div class="container">
                  <div class="row">

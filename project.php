@@ -13,6 +13,7 @@
 
   
   <body>
+    <!--The navigation bar-->
     <div class="nav">
       <div class="container">
         <ul class="pull-left">
@@ -22,24 +23,25 @@
         <ul class="pull-right">
           <li><a href="project.php">Projects</a></li>
           <li><a href="contact.php">Contact Me</a></li>
-          <li><a href="reg.php">Register</a></li>
         </ul>
       </div>
     </div>
 
+	
     <div class="container">
       <div class="jumbotron">
         <h1>My Projects</h1>
         <p>Here are some of the projects that I have taken on. </p>
-        <a href="#">Learn More</a>
       </div>
     </div> 
 
+	<!--A sore of web-based spin on a resume/portfolio-->
     <div class="neighborhood-guides">
         <div class="container">
-            <h2>"Neighborhood Guides"</h2>
-               <p>"Not sure where to stay? We created neighborhood guides for cities all around the world."</p>
+            <h2>"Projects"</h2>
+               <p>"This is just some of the projects that have kept me busy, you know, in addition to continuing the website."</p>
                  <div class="row">
+				     <!--The description of the project-->
                      <div class="col-md-8">
                          <p><strong>Face Value Blog</strong></p><br>
 						 <ul class="description">
@@ -49,9 +51,10 @@
 						 </ul>
                      </div>
                      
+					 <!--The selected project screenshot-->
                      <div class="col-md-4">
                          <div class="thumbnail">
-                             <img src="http://www.vgu.tv/wp-content/uploads/2013/12/Pok%C3%A9mon-X-Y.png" class="img-responsive img-thumbnail">
+                             <img src="fvblogimages/Face Value Blog 2.png" class="img-responsive img-thumbnail">
 							 <a href="#" class="btn btn-primary" role="button">
 								Button
 							</a> 
@@ -64,6 +67,7 @@
                  </div>
 				 
 				 <div class="row">
+				      <!--The description of the project-->
                      <div class="col-md-8">
                          <p><strong>Programming Instructor</strong></p><br>
 						 <ul class="description">
@@ -72,9 +76,10 @@
 						 </ul>
                      </div>
                      
+					 <!--The selected project screenshot-->
                      <div class="col-md-4">
                          <div class="thumbnail">
-                             <img src="http://www.vgu.tv/wp-content/uploads/2013/12/Pok%C3%A9mon-X-Y.png" class="img-responsive img-thumbnail">
+                             <img src="Programming Instructor Work/Question_Program.jpg" class="img-responsive img-thumbnail">
 							 <a href="#" class="btn btn-primary" role="button">
 								Button
 							</a> 
@@ -87,6 +92,7 @@
                  </div>
 				 
 				 <div class="row">
+				 <!--The description of the project-->
                      <div class="col-md-8">
                          <p><strong>Community Intern</strong></p><br>
 						 <ul class="description">
@@ -95,9 +101,10 @@
 						 </ul>
                      </div>
                      
+					 <!--The selected project screenshot-->
                      <div class="col-md-4">
                          <div class="thumbnail">
-                             <img src="PYMCHOME.png" class="img-responsive img-thumbnail">
+                             <img src="PYMC Website Work/News Feed(Recent Posts) from PYMC.png" class="img-responsive img-thumbnail">
 							 <a href="#" class="btn btn-primary" role="button">
 								Button
 							</a> 
@@ -110,27 +117,6 @@
                  </div>
         </div>
     </div>
-    <div class="learn-more">
-	  <div class="container">
-		<div class="row">
-	  	  <div class="col-md-4">
-			<h3>Travel</h3>
-			<p>From apartments and rooms to treehouses and boats: stay in unique spaces in 192 countries.</p>
-			<p><a href="#">See how to travel on Airbnb</a></p>
-		  </div>
-		  <div class="col-md-4">
-			<h3>Host</h3>
-			<p>Renting out your unused space could pay your bills or fund your next vacation.</p>
-			<p><a href="#">Learn more about hosting</a></p>
-	      </div>
-		  <div class="col-md-4">
-			<h3>Trust and Safety</h3>
-			<p>From Verified ID to our worldwide customer support team, we've got your back.</p>
-			<p><a href="#">Learn about trust at Airbnb</a></p>
-		  </div>
-	    </div>
-	  </div>
-	</div>
   </body>
 </html>
     
