@@ -2,6 +2,7 @@
 <html>
 
   <head>
+     <!--Adds the style from the css file along with the bootstrap to be able to use that framework-->
     <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
     
     <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
@@ -14,8 +15,12 @@
 
   
   <body>
+<<<<<<< HEAD
     <!--The navigation bar which will be the same on each page but will link to the page
 	specified by the name when clicked on -->
+=======
+    <!--This begins the navigation bar-->
+>>>>>>> ef1fe0489ec1e3ab0f8932eb307c2c74ad169284
     <div class="nav">
       <div class="container">
         <ul class="pull-left">
@@ -28,11 +33,16 @@
         </ul>
       </div>
     </div>
+     <!--This ends the navigation bar -->
 	
+<<<<<<< HEAD
 	
 	
 	<!--The jumbotron on each page displaying what the page is about. It will be different
 	on each page-->
+=======
+    
+>>>>>>> ef1fe0489ec1e3ab0f8932eb307c2c74ad169284
     <div class="jumbotron">
       <div class="container">
         <h1>Char's World.</h1>
@@ -40,7 +50,11 @@
       </div>
     </div> 
 
+<<<<<<< HEAD
    <!--The stash of video games that I have played-->
+=======
+   <!--Thumbnails of video games meant to link you to the site where these games originated from-->
+>>>>>>> ef1fe0489ec1e3ab0f8932eb307c2c74ad169284
     <div class="neighborhood-guides">
         <div class="container">
                  <div class="row">
