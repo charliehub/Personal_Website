@@ -33,19 +33,13 @@
 		I have taken on several projects since then which you can get some detail about in the "Projects" section<br>
 		of the website.</p>
         <a href="#">Learn More</a>
-		<div class="progress">
-   <div class="progress-bar" role="progressbar" aria-valuenow="60" 
-      aria-valuemin="0" aria-valuemax="100" style="width: 40%;">
-      <span class="sr-only">40% Complete</span>
-   </div>
-</div>
       </div>
     </div> 
 
     <div class="neighborhood-guides">
         <div class="container">
-            <h2>"Neighborhood Guides"</h2>
-               <p>"Not sure where to stay? We created neighborhood guides for cities all around the world."</p>
+            <h2>"Some of the Video Games I have played"</h2>
+               <p>"Just some of the many things that have helped me enjoy life."</p>
                  <div class="row">
                      <div class="col-md-4">
                          <div class="thumbnail">
@@ -83,11 +77,6 @@
                  </div>
         </div>
     </div>
-    <div class="learn-more">
-	  <div class="container">
-		
-	  </div>
-	</div>
   </body>
 </html>
       
