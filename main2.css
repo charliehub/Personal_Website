@@ -1,0 +1,89 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav{
+  border: 3px solid black;
+}
+ 
+body{
+  background-image:url(http://37.media.tumblr.com/tumblr_m6lv3hXn2Z1qzp9weo1_1280.jpg);
+  background-size:cover;
+}
+
+.jumbotron {
+  background-image:url(http://static.giantbomb.com/uploads/original/0/2806/1628625-wallpaper_the_legend_of_dragoon_04_1024.jpg);
+  height: 500px;
+  margin-right: 15px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.neighborhood-guides{
+	border: 3px solid black;
+	background-color: gray;
+}
+
+.neighborhood-guides h2{
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.neighborhood-guides p{
+    font-size:15px;
+    margin-bottom: 13px;
+	
+}
+
+.col-md-8{
+  border-right: 3px solid black;
+}
+
+.row{
+
+}
+
+div.nav{
+  border: 3px solid black;
+  background-color: white;
+}
+
+.thumbnail img{
+   min-height:50px;
+   height: 100px;
+
